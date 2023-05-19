@@ -71,6 +71,7 @@
     <string name="ml_prof">ml</string>
     <string name="count_water">0</string>
     <string name="count_pills">0</string>
+    <string name="add">Добавить напоминание</string>
 
 
 </resources>

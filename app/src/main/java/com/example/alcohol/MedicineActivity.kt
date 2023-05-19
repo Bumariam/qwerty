@@ -9,3 +9,5 @@ class MedicineActivity : AppCompatActivity() {
         setContentView(R.layout.activity_medicine)
     }
 }
+
+

@@ -2,7 +2,6 @@ package com.example.alcohol
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.text.BoringLayout
 import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.widget.Toolbar

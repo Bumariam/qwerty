@@ -318,7 +318,7 @@
                     android:layout_marginLeft="40dp"
                     android:fontFamily="@font/raleway_bold"
                     android:text="@string/sleep_prof"
-                    android:textColor="@color/steps"
+                    android:textColor="@color/white"
                     android:textSize="18sp" />
 
                 <LinearLayout
@@ -334,6 +334,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/roboto_light"
                         android:text="@string/count_sleep"
+                        android:textColor="@color/white"
                         android:textSize="24sp" />
 
                     <TextView
@@ -341,6 +342,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/roboto_bold"
                         android:text="@string/hours_prof"
+                        android:textColor="@color/white"
                         android:textSize="12sp" />
                 </LinearLayout>
             </LinearLayout>
