@@ -6,23 +6,4 @@
     android:orientation="vertical"
     tools:context=".MedicineActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/remindersRecyclerView"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:clipToPadding="false"
-        android:paddingBottom="8dp"
-        android:paddingTop="8dp"
-        tools:listitem="@layout/item_reminder" />
-
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/addReminderButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="end"
-        android:layout_marginTop="16dp"
-        android:src="@drawable/ic_add"
-        tools:ignore="ContentDescription"
-        android:contentDescription="@string/add"/>
 </LinearLayout>
